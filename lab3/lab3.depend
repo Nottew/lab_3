@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638780235 source:c:\users\polya\desktop\kpi\cproj\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
